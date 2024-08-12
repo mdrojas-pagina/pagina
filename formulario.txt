@@ -1,0 +1,6 @@
+        <section class="post">
+            <h2>ejemplo post</h2>
+            <p>ejemplo</p>
+        </section>
+
+Usado para crear post en cualquier parte de la página. Se sube con el contenido y a posterior se le da click a commit changes, tras unos minutos la página se actualizará de forma automática
